@@ -1,0 +1,28 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Web development with React using NodeJS library",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PubbThang/PubbThang.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "ThangNH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PubbThang/PubbThang/issues"
+  },
+  "homepage": "https://github.com/PubbThang/PubbThang#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "save-dev": "^0.0.1-security"
+  }
+}
